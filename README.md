@@ -6,9 +6,8 @@ _**apt install ssh-audit**_
 
 To run the script
 
-_python3 ssh_analyser.py --ip-file ips.txt --vertical-display
+_python3 ssh_analyser.py --ip-file ips.txt --vertical-display_
 
-python3 ssh_analyser.py --ip-file ips.txt --horizontal-display_
-_
+_python3 ssh_analyser.py --ip-file ips.txt --horizontal-display_
 
 
