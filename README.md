@@ -2,12 +2,12 @@ This script executes ssh-audit on multiple IP addresses and parses the results p
 There are two versions of output (vertical and horizontal) - See example outputs
 
 Requirements -install ssh-audit 
-apt install ssh-audit
+_**apt install ssh-audit**_
 
 To run the script
 
-python3 ssh_analyser.py --ip-file ips.txt --vertical-display
-python3 ssh_analyser.py --ip-file ips.txt --horizontal-display
+_python3 ssh_analyser.py --ip-file ips.txt --vertical-display
+python3 ssh_analyser.py --ip-file ips.txt --horizontal-display_
 
 
 
